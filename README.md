@@ -10,4 +10,4 @@ It has been chosen to develop and add a third level to the sample of the game th
 - Change in the physics of the game such as the jump height of the character.
 - Extension of the length of the level.
 - Implementation of audio for the level and special effects in the game.
-- Life limitation: tha player has a maximun of 3 attepmts to win the game.
+- Life limitation: the player has a maximun of 3 attepmts to win the game.
